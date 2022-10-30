@@ -1,0 +1,11 @@
+C:\Users\Albi\source\repos\P6_4_1204075\P6_4_1204075\bin\Debug\P6_4_1204075.exe.config
+C:\Users\Albi\source\repos\P6_4_1204075\P6_4_1204075\bin\Debug\P6_4_1204075.exe
+C:\Users\Albi\source\repos\P6_4_1204075\P6_4_1204075\bin\Debug\P6_4_1204075.pdb
+C:\Users\Albi\source\repos\P6_4_1204075\P6_4_1204075\obj\Debug\P6_4_1204075.csproj.AssemblyReference.cache
+C:\Users\Albi\source\repos\P6_4_1204075\P6_4_1204075\obj\Debug\P6_4_1204075.csproj.SuggestedBindingRedirects.cache
+C:\Users\Albi\source\repos\P6_4_1204075\P6_4_1204075\obj\Debug\P6_4_1204075.Form1.resources
+C:\Users\Albi\source\repos\P6_4_1204075\P6_4_1204075\obj\Debug\P6_4_1204075.Properties.Resources.resources
+C:\Users\Albi\source\repos\P6_4_1204075\P6_4_1204075\obj\Debug\P6_4_1204075.csproj.GenerateResource.cache
+C:\Users\Albi\source\repos\P6_4_1204075\P6_4_1204075\obj\Debug\P6_4_1204075.csproj.CoreCompileInputs.cache
+C:\Users\Albi\source\repos\P6_4_1204075\P6_4_1204075\obj\Debug\P6_4_1204075.exe
+C:\Users\Albi\source\repos\P6_4_1204075\P6_4_1204075\obj\Debug\P6_4_1204075.pdb
